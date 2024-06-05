@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "contents/*.pdf": true,
+        "tests/*.pdf": true,
+        "tools/*.pdf": true,
+    }
+}

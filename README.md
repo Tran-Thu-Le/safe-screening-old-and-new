@@ -1,5 +1,8 @@
-# Safe screening - Old and New 
+# Safe Screening - Old and New 
 
-The document XXX aim to provide a comprehensive overview of safe screening techniques developed during the last 15 years.
+**Author:** Thu-Le Tran
+**Status:** Ongoing project
 
-This project is in development process.
+Please refer to `safe-screening-old-and-new.pdf` for an aimed-to-be comprehensive overview of _safe screening_ techniques developed during the last 15 years.
+
+**Remarks:** Some files of this project are currently in private mode.
