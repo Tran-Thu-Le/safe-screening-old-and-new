@@ -22,3 +22,7 @@
         return fmt(number)
     })
 }
+
+#let reffmt = it => text(fill: blue)[#it]
+
+#let eqref = eqref.with(style: reffmt) // set defaults
